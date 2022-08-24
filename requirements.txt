@@ -1,0 +1,5 @@
+ConfigParser
+selenium<4.3.0
+pytest
+nose
+pytest-xdist
